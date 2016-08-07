@@ -1,0 +1,27 @@
+{
+  "name": "fdty",
+  "version": "1.0.0",
+  "description": "webpage for fdty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/return02/Fdty.git"
+  },
+  "keywords": [
+    "webpage"
+  ],
+  "author": "Zty and Wdy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/return02/Fdty/issues"
+  },
+  "homepage": "https://github.com/return02/Fdty#readme",
+  "devDependencies": {
+    "koa": "^1.2.1",
+    "react": "^15.3.0",
+    "sequelize": "^3.23.6"
+  }
+}
